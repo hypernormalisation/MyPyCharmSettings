@@ -14,12 +14,11 @@
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="useMaterialFont2" value="true" />
-    <option name="treeFontSize" value="11" />
     <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="40" />
-    <option name="accentColor" value="8853e8" />
+    <option name="accentColor" value="c733ff" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="-2fcb2668:168534966b2:-8000" />
-    <option name="version" value="3.3.0" />
+    <option name="version" value="3.5.0.1" />
   </component>
 </application>
