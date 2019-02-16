@@ -3,7 +3,7 @@
     <property name="created">2019-01-16T01:43:36</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-02-16T03:47:34</property>
+    <property name="modified">2019-02-16T03:51:59</property>
     <property name="originalScheme">Dracula copy</property>
   </metaInfo>
   <colors>
@@ -36,6 +36,7 @@
     <option name="GUTTER_BACKGROUND" value="40011" />
     <option name="LINE_NUMBERS_COLOR" value="666879" />
     <option name="MODIFIED_LINES_COLOR" value="8be9fd" />
+    <option name="NOTIFICATION_BACKGROUND" value="110019" />
     <option name="SELECTION_BACKGROUND" value="15387" />
     <option name="SELECTION_FOREGROUND" value="ffffff" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="f1fa8c" />
@@ -25330,7 +25331,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2a2a55" />
+        <option name="BACKGROUND" value="e041d" />
       </value>
     </option>
     <option name="SPY-JS.EXCEPTION">
