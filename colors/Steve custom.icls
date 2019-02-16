@@ -4,7 +4,7 @@
     <property name="created">2019-01-16T01:43:36</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-02-16T04:01:59</property>
+    <property name="modified">2019-02-16T04:04:39</property>
     <property name="originalScheme">Dracula copy</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Inconsolata" />
@@ -16,6 +16,7 @@
     <option name="CARET_ROW_COLOR" value="44475a" />
     <option name="CONSOLE_BACKGROUND_KEY" value="70027" />
     <option name="DELETED_LINES_COLOR" value="ff79c6" />
+    <option name="DOCUMENTATION_COLOR" value="130027" />
     <option name="FILESTATUS_ADDED" value="50fa7b" />
     <option name="FILESTATUS_DELETED" value="6272a4" />
     <option name="FILESTATUS_HIJACKED" value="f1fa8c" />
@@ -36,14 +37,19 @@
     <option name="FILESTATUS_addedOutside" value="6272a4" />
     <option name="FILESTATUS_changelistConflict" value="ff79c6" />
     <option name="FILESTATUS_modifiedOutside" value="bd93f9" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="d024a" />
     <option name="GUTTER_BACKGROUND" value="40011" />
+    <option name="INFORMATION_HINT" value="20218" />
     <option name="LINE_NUMBERS_COLOR" value="9284a5" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="2da499" />
     <option name="METHOD_SEPARATORS_COLOR" value="1b0e4d" />
     <option name="MODIFIED_LINES_COLOR" value="8be9fd" />
     <option name="NOTIFICATION_BACKGROUND" value="110019" />
-    <option name="SELECTION_BACKGROUND" value="15387" />
+    <option name="QUESTION_HINT" value="141828" />
+    <option name="SELECTED_TEARLINE_COLOR" value="354b78" />
+    <option name="SELECTION_BACKGROUND" value="319" />
     <option name="SELECTION_FOREGROUND" value="ffffff" />
+    <option name="TEARLINE_COLOR" value="193455" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="f1fa8c" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="ff79c6" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="8be9fd" />
@@ -90,13 +96,13 @@
     <option name="BREADCRUMBS_CURRENT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="666b87" />
+        <option name="BACKGROUND" value="4002a" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
         <option name="FOREGROUND" value="bbbbbb" />
-        <option name="BACKGROUND" value="282a36" />
+        <option name="BACKGROUND" value="f0036" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
@@ -108,7 +114,7 @@
     <option name="BREADCRUMBS_INACTIVE">
       <value>
         <option name="FOREGROUND" value="666b87" />
-        <option name="BACKGROUND" value="282a36" />
+        <option name="BACKGROUND" value="a0636" />
       </value>
     </option>
     <option name="BROWSEWORDATCARET">
@@ -524,7 +530,7 @@
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="666b87" />
-        <option name="BACKGROUND" value="38174a" />
+        <option name="BACKGROUND" value="44a" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
