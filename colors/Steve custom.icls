@@ -1,20 +1,17 @@
 <scheme name="Steve custom" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-01-16T01:43:36</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-02-16T04:06:06</property>
+    <property name="modified">2019-02-16T04:20:04</property>
     <property name="originalScheme">Dracula copy</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Inconsolata" />
-  <option name="CONSOLE_LINE_SPACING" value="1.14" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="50fa7b" />
     <option name="ANNOTATIONS_COLOR" value="282a36" />
     <option name="CARET_COLOR" value="9072cc" />
     <option name="CARET_ROW_COLOR" value="44475a" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="427" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DELETED_LINES_COLOR" value="ff79c6" />
     <option name="DOCUMENTATION_COLOR" value="130027" />
     <option name="FILESTATUS_ADDED" value="50fa7b" />
@@ -191,6 +188,7 @@
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
+        <option name="BACKGROUND" value="30206" />
       </value>
     </option>
     <option name="CONSOLE_RANGE_TO_EXECUTE">
@@ -611,7 +609,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="11185a" />
+        <option name="BACKGROUND" value="b0017" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -25440,7 +25438,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="d6f8e1" />
-        <option name="BACKGROUND" value="e0514" />
+        <option name="BACKGROUND" value="20106" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -25487,7 +25485,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4002a" />
+        <option name="BACKGROUND" value="30014" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
