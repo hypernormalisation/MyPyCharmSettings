@@ -2,7 +2,6 @@
   <component name="MaterialThemeConfig">
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
-    <option name="darkTitleBar" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -15,14 +14,13 @@
     <option name="treeFontSizeEnabled" value="true" />
     <option name="upperCaseButtons" value="false" />
     <option name="useMaterialFont2" value="true" />
-    <option name="treeFontSize" value="13" />
     <option name="leftTreeIndent" value="2" />
     <option name="rightTreeIndent" value="4" />
     <option name="settingsSelectedTab" value="3" />
-    <option name="tabsHeight" value="40" />
+    <option name="tabsHeight" value="26" />
     <option name="accentColor" value="84ffff" />
     <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="-2fcb2668:168534966b2:-8000" />
-    <option name="version" value="3.8.0.2" />
+    <option name="version" value="3.9.1" />
   </component>
 </application>
