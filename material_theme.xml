@@ -10,6 +10,7 @@
     <option name="isHighContrast" value="true" />
     <option name="isStyledDirectories" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="upperCaseButtons" value="false" />
@@ -21,6 +22,6 @@
     <option name="accentColor" value="84ffff" />
     <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="-2fcb2668:168534966b2:-8000" />
-    <option name="version" value="4.11.5" />
+    <option name="version" value="4.5.2" />
   </component>
 </application>
